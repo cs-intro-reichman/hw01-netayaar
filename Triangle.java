@@ -4,7 +4,7 @@ public class Triangle {
         int b = Integer.parseInt(args[1]);
         int c = Integer.parseInt(args[2]);
         boolean result = (a + b > c) && (a + b > c) && (a + b > c);
-        System.out.println(a + "," + b + "," + c + " : " + result);
+        System.out.println(a + " ," + b + " ," + c + " : " + result);
 
 
 } }
