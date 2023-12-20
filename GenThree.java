@@ -12,5 +12,4 @@ public class GenThree {
         System.out.println(randomThree);
         System.out.println("The minimum generated number was " + finalMin);
     }
-
 }

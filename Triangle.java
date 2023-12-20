@@ -5,6 +5,5 @@ public class Triangle {
         int c = Integer.parseInt(args[2]);
         boolean result = (a + b > c) && (a + b > c) && (a + b > c);
         System.out.println(a + ", " + b + ", " + c + ": " + result);
-
-
-} }
+} 
+}
